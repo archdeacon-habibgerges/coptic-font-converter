@@ -1,5 +1,7 @@
 # coptic-font-converter
 
+[![npm version](https://badge.fury.io/js/coptic-font-converter.svg)](https://www.npmjs.com/package/coptic-font-converter)
+
 Lightweight npm package to convert Coptic text between different english fonts and coptic unicode.
 
 ## Installation

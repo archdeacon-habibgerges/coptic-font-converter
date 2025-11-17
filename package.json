@@ -1,10 +1,25 @@
 {
   "name": "coptic-font-converter",
-  "version": "1.0.1",
+  "author": "ADHG",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "type": "module",
   "license": "MIT",
+  "description": "npm package to convert Coptic text between different english fonts and coptic unicode.",
+  "keywords": [
+      "Coptic",
+      "Font",
+      "Converter"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/archdeacon-habibgerges/coptic-font-converter.git"
+  },
+  "files": [
+      "dist",
+      "README.md"
+  ],
   "scripts": {
     "build": "tsc"
   },
